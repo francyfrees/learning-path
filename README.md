@@ -92,26 +92,4 @@
 
 > 过关：画出支撑一万在线的架构图，并指出第一个会崩的地方。
 
----
-
-## 当前进度
-
-**在做** — [Task Board](https://github.com/francyfrees/task-board)：团队协作任务管理 SaaS。
-Next.js + tRPC + Prisma + PostgreSQL + Redis，覆盖 RBAC、软删除、游标分页、SSE 实时推送、BullMQ 邮件队列、GitHub Actions CI、Docker 多阶段构建。
-
-**在补** — L4 索引与执行计划、L6 实时方案的取舍。
-
-**有笔记** — [git-docs](https://github.com/francyfrees/git-docs)、[vue3-keep-alive-debug](https://github.com/francyfrees/vue3-keep-alive-debug)。
-
-## 参考资料
-
-长期在看、确实用上的：
-
-- [Git 操作手册](https://github.com/francyfrees/git-docs) — 自己整理的，常查
-- [正则表达式 30 分钟入门](https://deerchao.cn/tutorials/regex/regex.htm) — 每次忘都回来翻
-- [前端面试题汇总](https://muyiy.cn/question/) — 用来查漏，不是用来背
-- [前端九部](https://www.yuque.com/fe9/basic) — 基础补强
-
----
-
 <sub>路线会随项目变化更新。写成验收表，是为了不给自己留「看过了就等于会了」的余地。</sub>
